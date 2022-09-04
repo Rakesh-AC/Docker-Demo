@@ -18,4 +18,3 @@ COPY main.py /
 # The following command will execute "python ./main.py".
 
 CMD [ "python", "./main.py" ]
-
